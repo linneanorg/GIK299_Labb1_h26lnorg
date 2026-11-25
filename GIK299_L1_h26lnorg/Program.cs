@@ -44,16 +44,46 @@
             // TODO: Ogiltig inmatning ska ge ett felmeddelande och en ny chans.
 
             //deklarera variabler
-            double temperature;
-            double windSpeed;
-            double windChillTemperature;
+            double temperature = 0;
+            double windSpeed = 0;
+            double windChillTemperature = 0;
+            int windSpeedSuffix;
 
-            //input - hämta värde  från användaren
+            //input - hämta värde från användaren
             Console.WriteLine("Skriv in temperatur i °C:");
-            temperature = Console.ReadLine();
+            temperature = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Skriv in vindhastighet");
-            windSpeed = Console.ReadLine();
+            Console.WriteLine("Vindhastighet i km/h (1) eller m/s (2)?");
+            windSpeedSuffix = Convert.ToInt32(Console.ReadLine());
+
+            //om användaren skriver siffran 1
+            if (windSpeedSuffix == 1)
+            {
+                Console.WriteLine("Skriv in vindhastighet i km/h:");
+                windSpeed = Convert.ToDouble(Console.ReadLine());
+            }
+
+            //om användaren skriver siffran 2
+            else if (windSpeedSuffix == 2)
+            {
+                Console.WriteLine("Skriv in vindhastighet i m/s:");
+                windSpeed = Convert.ToDouble(Console.ReadLine()) * 3.6; //räknar om m/s till km/h
+            }
+
+            //om användaren skriver en annan siffra än 1 och 2
+            else 
+            {
+                Console.WriteLine("Du har skrivit in fel siffra, prova igen.");
+            }
+
+            //deklarerar en variabel och beräknar vindhastighet upphöjt till 0,16
+            double windSpeedPow = Math.Pow(windSpeed, 0.16);
+
+            //uträkning wind chill temperature
+            windChillTemperature = 13.12 + 0.6215 * temperature - 11.37 * windSpeedPow + 0.3965 * temperature * windSpeedPow;
+
+            //skriver ut wind chill-faktorn med en decimal
+            Console.WriteLine("Wind chill-faktorn är " + windChillTemperature.ToString("F1"));
 
             // ----------------------------------------------------------------
 

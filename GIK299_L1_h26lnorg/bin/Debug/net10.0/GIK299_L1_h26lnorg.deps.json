@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "GIK299_L1_h26lnorg/1.0.0": {
+        "runtime": {
+          "GIK299_L1_h26lnorg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GIK299_L1_h26lnorg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

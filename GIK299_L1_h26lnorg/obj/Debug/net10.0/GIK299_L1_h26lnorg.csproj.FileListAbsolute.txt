@@ -1,0 +1,16 @@
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\bin\Debug\net10.0\GIK299_L1_h26lnorg.exe
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\bin\Debug\net10.0\GIK299_L1_h26lnorg.deps.json
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\bin\Debug\net10.0\GIK299_L1_h26lnorg.runtimeconfig.json
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\bin\Debug\net10.0\GIK299_L1_h26lnorg.dll
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\bin\Debug\net10.0\GIK299_L1_h26lnorg.pdb
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\obj\Debug\net10.0\GIK299_L1_h26lnorg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\obj\Debug\net10.0\GIK299_L1_h26lnorg.AssemblyInfoInputs.cache
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\obj\Debug\net10.0\GIK299_L1_h26lnorg.AssemblyInfo.cs
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\obj\Debug\net10.0\GIK299_L1_h26lnorg.csproj.CoreCompileInputs.cache
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\obj\Debug\net10.0\GIK299_L1_h26lnorg.sourcelink.json
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\obj\Debug\net10.0\GIK299_L1_h26lnorg.dll
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\obj\Debug\net10.0\refint\GIK299_L1_h26lnorg.dll
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\obj\Debug\net10.0\GIK299_L1_h26lnorg.pdb
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\obj\Debug\net10.0\GIK299_L1_h26lnorg.genruntimeconfig.cache
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\obj\Debug\net10.0\ref\GIK299_L1_h26lnorg.dll
+C:\Users\linne\OneDrive\Dokument\Objektorienterad programmering GIK299\GIK299_Labb1_h26lnorg\GIK299_L1_h26lnorg\obj\Debug\net10.0\GIK299_L.404A857B.Up2Date
