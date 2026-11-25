@@ -42,6 +42,19 @@
             // TODO: Fråga om vinden anges i km/h eller m/s, och läs in den.
             // TODO: Om vinden är i m/s: räkna om till km/h (m/s · 3,6).
             // TODO: Ogiltig inmatning ska ge ett felmeddelande och en ny chans.
+
+            //deklarera variabler
+            double temperature;
+            double windSpeed;
+            double windChillTemperature;
+
+            //input - hämta värde  från användaren
+            Console.WriteLine("Skriv in temperatur i °C:");
+            temperature = Console.ReadLine();
+
+            Console.WriteLine("Skriv in vindhastighet");
+            windSpeed = Console.ReadLine();
+
             // ----------------------------------------------------------------
 
             // DEBUG (del 2): <fyll i efter att du stegat genom koden>
